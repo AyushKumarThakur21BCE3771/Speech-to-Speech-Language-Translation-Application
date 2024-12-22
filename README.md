@@ -42,7 +42,7 @@ This application is a **real-time speech-to-speech language translation tool** b
 
 3. **Run the Application:**
    ```bash
-   python app.py
+   python main.py
    ```
 
 ---
