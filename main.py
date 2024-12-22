@@ -8,7 +8,6 @@ from playsound import playsound
 from deep_translator import GoogleTranslator
 from google.transliteration import transliterate_text
 
-
 # Create an instance of Tkinter frame or window
 win= tk.Tk()
 
